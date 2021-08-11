@@ -42,6 +42,7 @@ else:
 
 # # La discoteca solo acepta jovenes que esten vestidos de negro y tengan 18años
 
+####
 
 ropa = 'azul'
 edad = 17
